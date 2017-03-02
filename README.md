@@ -15,7 +15,7 @@ Check our [Security Reporting](https://github.com/aragun/documentation/wiki/Secu
 ## Documentation
 
 See the [Wiki](https://github.com/aragun/documentation/wiki) for full documentation, news, examples and other instructions.
-The documentation for the [RMS SDK 4.2](https://msdn.microsoft.com/en-us/Library/dn758244%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396) supplements this Wiki.
+The documentation for the [RMS SDK 4.2](https://msdn.microsoft.com/en-us/Library/dn758244%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396) on MSDN supplements this Wiki.
 
 See the [API reference](http://azuread.github.io/rms-sdk-for-cpp/index.html) created with Doxygen. 
 
